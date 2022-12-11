@@ -1,16 +1,42 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90)
 
-<!--
-**SpichkaXD/SpichkaXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <h1 align="center">Привет меня зовут 
+        <a href=https://www.instagram.com/lubchik_egor/> Егор
+        </a>
+        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+    </h1>
+    <h3 align="center">Я начинающий Front-end разработчик</h3>
+</p>
 
-Here are some ideas to get you started:
+### **_О себе:_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🎓 Не сижу на месте, люблю учить новое
+-   🔧 Быстро овладеваю новыми навыками
+-   ✒️ Уделяю внимание порядку на рабочем месте
+-   🙌 Хочу найти дружную команду
+
+---
+
+### 🛠 &nbsp;_Стек технологий_:
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpichkaXD&theme=github_dark"> 
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpichkaXD&theme=github_dark">
+</div>
+
+![stats](https://komarev.com/ghpvc/?username=SpichkaXD&style=flat-square&color=blueviolet)
+
+### **_Контакты:_**
+
+#### 📧 Почта: spichkaXD@yandex.by
+
+#### 🌐 Telegram: [@MrSpichkaXD](https://t.me/MrSpichkaXD)
+
+&nbsp;
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
