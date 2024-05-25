@@ -24,6 +24,10 @@
 
 ---
 
+<img src ="https://www.codewars.com/users/SpichkaXD/badges/large">
+
+---
+
 <div style="display: flex; justify-content: space-between; width: 100%">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpichkaXD&theme=github_dark"> 
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpichkaXD&theme=github_dark">
