@@ -28,10 +28,15 @@
 
 ---
 
+<!-- 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpichkaXD&theme=solarized_dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpichkaXD)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: flex; justify-content: space-between; width: 100%">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpichkaXD&theme=github_dark"> 
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpichkaXD&theme=github_dark">
-</div>
+</div> 
+-->
 
 ![stats](https://komarev.com/ghpvc/?username=SpichkaXD&style=flat-square&color=blueviolet)
 
